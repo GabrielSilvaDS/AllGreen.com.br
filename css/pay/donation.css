@@ -1,0 +1,149 @@
+h1,h4{
+    font-family: "bebas";
+}
+p{
+    font-family: "inter";
+}
+input{
+    position: absolute;
+    top: 80%;
+    left: 80%
+}
+div.menu-donation{
+    position: absolute;
+    width: 1068px;
+    height: 585px;
+    left: 23%;
+    top: 5%;
+    background: #C4C4C4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+div.logo-colaborador{
+    position: absolute;
+    width: 123px;
+    height: 125px;
+    top: 20px;
+    left: 20px;
+}
+.arvore{
+    position: absolute;
+    left: 92%;
+    top: 20px;
+}
+#tittle{
+    position: absolute;
+    top: 15%;
+    left: 25%;
+}
+p{
+    position: absolute;
+    top: 16.5%;
+    left: 50%;
+}
+img.logo{
+    border-radius: 15px;
+}
+#proposta{
+    margin-top: 75px;
+    opacity: 0.4;
+}
+div.proposta{
+    position: absolute;
+    width: 638px;
+    height: 172px;
+    left: 25%;
+    top: 196px;
+    text-align: center;
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+div.info{
+    position: absolute;
+    width: 1068px;
+    height: 21px;
+    left: 0px;
+    top: 96%;
+    text-align: center;
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+#vinte{
+    margin-top: 10px;
+}
+div.vinte{
+    position: absolute;
+    width: 179px;
+    height: 169px;
+    left: 23%;
+    top: 75%;
+    text-align: center;
+    font-family: "inter";
+    color: #760303;
+    background: #ECECEC;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 13px;
+}
+#trinta{
+    margin-top: 10px;
+}
+div.trinta{
+    position: absolute;
+    width: 179px;
+    height: 169px;
+    left: 39%;
+    top: 75%;
+    text-align: center;
+    font-family: "inter";
+    color: #760303;
+    background: #ECECEC;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 13px;
+}
+#cinquenta{
+    margin-top: 10px;
+}
+div.cinquenta{
+    position: absolute;
+    width: 179px;
+    height: 169px;
+    left: 55%;
+    top: 75%;
+    text-align: center;
+    font-family: "inter";
+    color: #760303;
+    background: #ECECEC;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 13px;
+}
+#cem{
+    margin-top: 10px;
+}
+div.cem{
+    position: absolute;
+    width: 179px;
+    height: 169px;
+    left: 70%;
+    top: 75%;
+    text-align: center;
+    font-family: "inter";
+    color: #760303;
+    background: #ECECEC;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 13px;
+}
+button.doar{
+    cursor: pointer;
+    position: absolute;
+    width: 149px;
+    height: 51px;
+    left: 67%;
+    top: 55%;
+    border: 0;
+    color: white;
+    font-family: "bebas";
+    font-size: 32px;
+    background: #61C90F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
