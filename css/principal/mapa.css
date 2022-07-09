@@ -1,66 +1,4 @@
-@font-face{
-    font-family: "inter";
-    src: url(/fonts/Inter-Regular.ttf);
-}
-@font-face {
-    font-family: "publicsans";
-    src: url(/fonts/PublicSans-Regular.ttf);
-}
-@font-face {
-    font-family: "bebas";
-    src: url(/fonts/BebasNeue-Regular.ttf);
-}
-div.menu-section a{
-    color: white;
-}
-.menu-section{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    position: fixed;
-    width: 100%;
-    padding: 20px;
-    font-size: 20px;
-    color: white;
-    background-color: #0B6F4B;
-}
-.cabecalho{
-    font-family: "publicsans";
-}
-div.menu-section img#sanduiche{
-    position: fixed;
-    left: 25px;
-    top: 10px;
-}
-div.menu-section p{
-    margin: 0px 0px 0px 25px;
-}
-div.menu-nav a{
-    color: white;
-}
-.menu-nav{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    position: fixed;
-    box-shadow: 0px 5px 5px black;
-    top: 70px;
-    width: 100%;
-    padding: 3px;
-    font-size: 20px;
-    background-color: #10BA7D;
-}
-#logo{
-    position: relative;
-    top: -20px;
-    left: 10px;
-}
-.menu-nav{
-    font-family: "inter";
-}
-#doador{
-    margin-right: 180px;
-}
+
 #sustenta{
     background-color: #C4C4C4;
     width: 350px;
@@ -551,14 +489,4 @@ article div.nav-ongs div#ong8 p{
     font-size: 10px;
     top: 94%;
     left: 15px;
-}
-.footer-section{
-    position: absolute;
-    top: 170%;
-    text-align: center;
-    width: 100%;
-    padding: 20px;
-    color: white;
-    
-    background-color: #0B6F4B;
 }

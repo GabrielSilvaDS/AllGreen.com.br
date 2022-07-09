@@ -1,0 +1,197 @@
+body{
+   background-color: #E0E0E0;
+}
+h1{
+    color: #0B6F4B;
+    text-align: center;
+    margin-top: 60px;
+    font-family: "bebas";
+}
+h4{
+    font-family: "bebas";
+}
+img{
+    margin-top: 15px;
+    margin-right: 15px;
+    width: 50px;
+    height: 55px;
+}
+div.nav{
+    position: absolute;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1000px;
+    height: 80px;
+    left: 25%;
+    top: 20%;
+    background: #0B6F4B;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 26px;
+    z-index: 99;
+}
+div.menu{
+    position: absolute;
+    width: 1000px;
+    height: 500px;
+    left: 25%;
+    top: 27%;
+    background: #C4C4C4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+input{
+    border-radius: 5px;
+    border: 0;
+    height: 30px;
+    background: #FFFFFF;
+    opacity: 0.8;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+div.input-nome{
+    position: absolute;
+    top: 15%;
+    left: 15px;
+}
+div.input-cpf{
+    position: absolute;
+    display: flex;
+    top: 30%;
+    left: 15px;
+}
+input.cpf{
+    position: absolute;
+    margin-top: 20px;
+}
+input.data{
+    position: absolute;
+    left: 265px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+#data{
+    margin-left: 245px;
+}
+div.input-email{
+    position: absolute;
+    display: flex;
+    top: 45%;
+    left: 15px;
+}
+input.email{
+    position: absolute;
+    margin-top: 20px;
+}
+input.telefone{
+    position: absolute;
+    margin-top: 20px;
+    left: 265px;
+}
+div.input-estado{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    top: 60%;
+    left: 15px;
+}
+input.estado{
+    margin-left: 10px;
+}
+#cidade{
+    margin-left: 15px;
+}
+#telefone{
+    margin-left: 233px;
+}
+input.cidade{
+    margin-left: 10px;
+}
+div.input-cep{
+    position: absolute;
+    display: flex;
+    top: 70%;
+    left: 15px;
+}
+input.cep{
+    margin-left: 28px;
+}
+div.input-email{
+    position: absolute;
+    left: 15px;
+}
+div.input-endereco{
+    position: absolute;
+    top: 80%;
+    left: 15px;
+}
+div input.nome{
+    width: 397px;
+    height: 30px;
+    text-align: center;
+}
+div input.cpf{
+    width: 184px;
+    text-align: center;
+}
+div input.data{
+    width: 135px;
+    text-align: center;
+}
+div input.email{
+    width: 203px;
+    text-align: center;
+}
+div input.telefone{
+    width: 135px;
+    text-align: center;
+}
+div input.estado, .cep{
+    width: 153px;
+}
+div input.cidade{
+    width: 135px;
+}
+div input.endereco{
+    width: 397px;
+}
+.linha-vertical{
+    position: absolute;
+    top: 32%;
+    left: 50%;
+    height: 400px;
+    opacity: 20%;
+    border-left: 2px solid black;
+}
+div input.user, .passwd, .conf-passwd{
+    width: 284px;
+}
+.usuario{
+    position: absolute;
+    top: 15%;
+    left: 59%;
+}
+.senha{
+    position: absolute;
+    top: 30%;
+    left: 59%;
+}
+.conf-senha{
+    position: absolute;
+    top: 45%;
+    left: 59%;
+}
+button{
+    font-family: "bebas";
+    font-size: 18px;
+    position: absolute;
+    color: #FFFFFF;
+    top: 83%;
+    left: 65%;
+    border-radius: 13px;
+    border: 0;
+    width: 146px;
+    height: 46px;
+    background: rgba(29, 203, 25, 0.96);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
